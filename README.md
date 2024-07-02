@@ -3,10 +3,16 @@ This tool allows you scrape and re-write hundreds of articles in an original way
 How to use:
 
 
-Clone the Repo to your local environment
-Make sure you're running Python 3.10+
-Initialise a new python environment python -m venv env
-Start the env env/scripts/activate
-Install the requirements pip install -r requirements.txt
-Add your OpenAI API key in env file
-Start main.py. 
+1-Clone the Repo to your local environment
+
+2-Make sure you're running Python 3.10+
+
+3-Initialise a new python environment python -m venv env
+
+4-Start the env env/scripts/activate
+
+5-Install the requirements pip install -r requirements.txt
+
+6-Add your OpenAI API key in env file
+
+7-Start main.py. 
